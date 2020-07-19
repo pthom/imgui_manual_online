@@ -9,8 +9,10 @@ improvecontrast: false
 
 An online interactive manual for [Dear ImGui](https://github.com/ocornut/imgui)
 
-Dear ImGui is a fantastic bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
+Dear ImGui is a fantastic Immediate Mode Graphical User interface for C++.
 
-[![ImGui Manual](img/link_manual.png)](https://traineq.org/imgui_manual/src/imgui_manual.html)
 
-Click on the image to launch the manual.
+[![ImGui Manual](img/link_manual.png)](manual/imgui_manual.html)
+
+
+Click on the image to launch the manual
