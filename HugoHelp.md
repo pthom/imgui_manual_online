@@ -10,3 +10,4 @@ https://themes.gohugo.io/ronu-hugo-theme/
 hugo server -D 
 
 # Build
+hugo -d docs
