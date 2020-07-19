@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ImGui Manual"
+theme = "hugograyscale"
+
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Pascal Thomet"
+    email = "pthomet@gmail.com"
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "An interactive online manual for ImGui"
+
+#[Social]
+#    twitter = "stream_running"
