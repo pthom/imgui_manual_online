@@ -12,5 +12,5 @@ Launch the playground
 
 [![playground image](img/playground.jpg)](https://gitpod.io/#https://github.com/pthom/imgui_manual)
 
-View a [demo video on youtube](https://www.youtube.com/watch?v=5jHilwGNSmA&feature=youtu.be)
+View a [demo video on youtube](https://youtu.be/FJgObNNmuzo)
 
