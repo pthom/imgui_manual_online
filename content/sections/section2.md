@@ -1,19 +1,16 @@
 ---
-title: "About"
+title: "Playground"
 weight: 3
 improvecontrast: true
 ---
 
-## About this manual
+### Playground
 
-The code for this manual is available [here](https://github.com/pthom/imgui_manual).
+The playground uses [gitpod.io](https://gitpod.io) an online IDE where you create your own ImGui test program with 5 lines of code.
 
-It runs online via emscripten, but can run as well on desktop and mobile platforms (via [hello_imgui](https://github.com/pthom/hello_imgui))
+Launch the playground
 
-See also a related [demo for Implot](https://traineq.org/implot_demo/src/implot_demo.html), which also provides code navigation.
+[![playground image](img/playground.jpg)](https://gitpod.io/#https://github.com/pthom/imgui_manual)
 
-[I'd love to read your feedback!](https://github.com/pthom/imgui_manual/issues/1)
+View a [demo video on youtube](https://www.youtube.com/watch?v=5jHilwGNSmA&feature=youtu.be)
 
-<!-- {{< socialhandles >}}
-    {{< github user="pthom" >}}
-{{< /socialhandles >}} -->
