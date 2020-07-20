@@ -6,9 +6,8 @@ improvecontrast: true
 
 ### Playground
 
-The playground uses [gitpod.io](https://gitpod.io) an online IDE where you create your own ImGui test program with 5 lines of code.
-
-Launch the playground
+The playground uses [gitpod.io](https://gitpod.io) an online IDE where you create your own ImGui test program with 5 lines of code. 
+Click on the image below to launch it.
 
 [![playground image](img/playground.jpg)](https://gitpod.io/#https://github.com/pthom/imgui_manual)
 
