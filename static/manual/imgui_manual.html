@@ -3,7 +3,18 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
-    <title>Dear ImGui Emscripten example</title>
+    <title>ImGui Interactive Manual</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130907315-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-130907315-2');
+    </script>
+
     <style>
         body { margin: 0; background-color: black }
         .emscripten {
@@ -58,15 +69,6 @@
     window.onerror = function() {
         console.log("onerror: " + event);
     };
-
-    // Module.sokol_paste = function(event) {
-    //     var pasted_str = event.clipboardData.getData('text');
-    //     ccall('_sapp_emsc_onpaste', 'void', ['string'], [pasted_str]);
-    // };
-
-    //window.addEventListener('paste', Module.sokol_paste);
-
-
 </script>
 <script async type="text/javascript" src="imgui_manual.js"></script>
 </body>
