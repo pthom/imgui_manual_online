@@ -2,7 +2,7 @@ Website for https://pthom.github.io/imgui_manual_online/
 
 This is a minimal static site that hosts the [ImGui Manual](https://github.com/pthom/imgui_manual).
 
-## Structure
+## Structure of docs/ (the root directory of the site)
 
 - `index.html` - Root page that redirects to the manual
 - `manual/` - Contains the ImGui Manual built with emscripten
